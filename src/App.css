@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+#sidebar-home{
+  height: 100vh;
+}
+body{
+  background-color: rgb(77, 77, 77);
+  background-image: url('./Components/School1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color: black;
+}
+
+#card{
+  width: 16rem;
+  height: 13rem;
+}
+
+.color{
+  background-color: #faffc9;
+}
